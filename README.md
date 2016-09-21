@@ -73,3 +73,8 @@ google cacheview -- http://cachedview.com/index.php?lang=pt http://webcache.goog
 archive -- Internet Archive is a non-profit library of millions of free books, movies, software, music, and more. -- https://archive.org
 
 blog acs -- http://axial.acs.org/
+
+# inspirations
+* https://github.com/rossant/awesome-math
+* https://github.com/sindresorhus/awesome
+* https://github.com/prakhar1989/awesome-courses
